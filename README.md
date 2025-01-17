@@ -2,7 +2,7 @@
 # In-Surely - An Interactive Insurance Query-Answering System
 
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) &nbsp;
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AbhishekSinghDhadwal/In-Surely/blob/main/In-Surely.ipynb) &nbsp;
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AbhishekSinghDhadwal/In-Surely/blob/main/In_Surely.ipynb) &nbsp;
 [![Instructions](https://img.shields.io/badge/Usage%20Instructions-8A2BE2)](#installation-and-usage-aka---how-to-run-the-notebook)
 
 ## Overview
